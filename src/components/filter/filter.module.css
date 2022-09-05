@@ -1,0 +1,34 @@
+.filter{
+    width: 300px;
+    height: 400px;
+    background-color: 
+    #0d202b ;
+    border-right: solid 1px;
+    border-color: #19313e;
+    text-align: left;
+}
+.filterBtn{
+    background-color: #123040;
+    height: 45px;
+    width: 90px;
+    border-radius: 5px;
+    border: none;
+}
+.line{
+    width: 280px;
+    height: 30px;
+    border-bottom: 1px solid #19313e;
+    position: absolute;
+    }
+.filterBtn2{
+        background-color: #123040;
+        height: 45px;
+        width: 200px;
+        border: none;
+}
+li{
+    list-style: none;
+}    
+.filterBtnList{
+    margin-top: 60px;
+}

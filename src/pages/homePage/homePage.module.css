@@ -1,0 +1,23 @@
+.homePage{
+    background-color: #0d202b;
+    width: 100%;
+    height: 2000px;
+    display:  flex;
+    flex-direction: column;
+}
+.homePageAd{
+    margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.homePageContent{
+  margin-top: 50px;
+margin-bottom: 50px;
+display: flex;
+justify-content: center;
+}
+.homePageFooter{
+  margin-top:auto; 
+}

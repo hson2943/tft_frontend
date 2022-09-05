@@ -1,0 +1,52 @@
+.rank{
+    width: 800px;
+    height: 600px;
+    background-color: #0d202b;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.headerBtn{
+    background-color: #123040;
+    height: 45px;
+    width: 90px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.headerSearch{
+    background-color: #102531;
+    height: 45px;
+    width: 400px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.line{
+    width: 700px;
+    height: 70px;
+    border-bottom: 1px solid #19313e;
+    position: absolute;
+    }
+    .rankCards{
+        margin-top: 50px;
+    }
+    .rankP{
+        background-color: #123040;
+        height: 45px;
+        width: 90px;
+        border-radius: 5px;
+        border: none;
+    }
+.rank2{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}    
+.rank2right{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+}    
